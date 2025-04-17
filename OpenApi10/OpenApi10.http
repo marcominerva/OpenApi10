@@ -1,0 +1,6 @@
+@OpenApi10_HostAddress = http://localhost:5134
+
+GET {{OpenApi10_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
